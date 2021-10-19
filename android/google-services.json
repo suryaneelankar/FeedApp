@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "536748121342",
+    "project_id": "feedapp-363f8",
+    "storage_bucket": "feedapp-363f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536748121342:android:7c27534a6cffc1b878d9af",
+        "android_client_info": {
+          "package_name": "com.feedapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536748121342-gquklbasuj46f1ncmuquop99hv83kmu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.feedapp",
+            "certificate_hash": "8810148b2ff188c709102ac74425e8d5eea203c5"
+          }
+        },
+        {
+          "client_id": "536748121342-ddkolmnbq34bup6lcjn48nos477fp1bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy4JlTRZwvh2fI25ioxr_7CO5UBN4P1Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536748121342-ddkolmnbq34bup6lcjn48nos477fp1bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

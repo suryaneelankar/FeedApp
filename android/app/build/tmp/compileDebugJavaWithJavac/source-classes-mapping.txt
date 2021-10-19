@@ -1,0 +1,14 @@
+com/feedapp/BuildConfig.java
+ com.feedapp.BuildConfig
+com/feedapp/MainApplication.java
+ com.feedapp.MainApplication
+ com.feedapp.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/feedapp/MainActivity.java
+ com.feedapp.MainActivity
+com/feedapp/ReactNativeFlipper.java
+ com.feedapp.ReactNativeFlipper
+ com.feedapp.ReactNativeFlipper$1
+ com.feedapp.ReactNativeFlipper$2
+ com.feedapp.ReactNativeFlipper$2$1
