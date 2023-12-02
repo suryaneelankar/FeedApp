@@ -17,7 +17,7 @@ import 'react-native-gesture-handler';
 function HomeScreenNew() {
   return (
     <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
-      <Text>Home Screen</Text>
+      <Text>Home Screen testtttt</Text>
     </View>
   );
 }
